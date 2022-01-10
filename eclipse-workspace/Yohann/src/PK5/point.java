@@ -1,0 +1,10 @@
+package PK5;
+
+public class point {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
